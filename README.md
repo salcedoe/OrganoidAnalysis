@@ -1,9 +1,9 @@
 # OrganoidAnalysis
  This  MATLAB app is designed to process images for the following research project:
 
-**Not so sweet: Investigating the role of receptor tyrosine kinases in taste homeostasis**
+**Tyrosine kinase inhibitors affect sweet taste and dysregulate fate selection of specific taste bud cell subtypes via KIT inhibition.**
 
-Christina M. Piarowski1,2, Jennifer K. Scott1,2, Courtney Wilson1,2, Heber I. Lara3, Ernesto Salcedo1, Elaine T. Lam4, Peter J. Dempsey5, Jakob von Moltke3, Linda A. Barlow1,2
+Christina M. Piarowski, Jennifer K. Scott, Courtney E. Wilson, Heber I. Lara, Ernesto Salcedo, Andrew S. Han, Elaine T. Lam, Peter J. Dempsey, Jakob von Moltke, Linda A. Barlow *
 
 
 
