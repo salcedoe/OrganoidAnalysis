@@ -52,11 +52,11 @@ you get a lot of clusters and it’s hard to keep track of which small clusters 
 
  The way that this works is that there are two controls below the channel 1 image. After you segment the volume, you should be able to access these controls. The number spinner is where you set the main label to which you want to add other labels. So, you find the label of one of the large clusters and set the spinner to that label (it will be a number from 1 to 10, or something like that). Then, you scroll to a region of the volume where there are some small clusters. Clicking on the Merge Button allows you to click on these small clusters. Their label will automatically be changed to the label of the large cluster. You must click on the merge button for each cluster you want to merge.
 
-![image-20250216133404890](/Users/ernesto/github/OrganoidAnalysis/assets/image-20250216133404890.png)
+![image-20250216133404890](/assets/image-20250216133404890.png)
 
-![image-20250216133505182](/Users/ernesto/github/OrganoidAnalysis/assets/image-20250216133505182.png)
+![image-20250216133505182](assets/image-20250216133505182.png)
 
-![image-20250216133728768](/Users/ernesto/github/OrganoidAnalysis/assets/image-20250216133728768.png)
+![image-20250216133728768](assets/image-20250216133728768.png)
 
 So, for example, in the above case, the green cluster is label 2. So, I set the label spinner to 2 and clicked on the merge button, which then allowed me click on one of small dark red clusters. This then merged the red cluster to the green cluster. I had to click merge button twice in this example to get the small clusters converted. 
 
@@ -76,7 +76,7 @@ By the way, you could also accidentally convert the background to one of the clu
 
 The Data Wrangler is used to organize the captured data and save to a csv file. 
 
-![image-20250216133954467](/Users/ernesto/github/OrganoidAnalysis/assets/image-20250216133954467.png)
+![image-20250216133954467](assets/image-20250216133954467.png)
 
 ### Update Clusters
 
